@@ -43,7 +43,7 @@ def detect_language(prompt: str, endpoint: str, path: str, key: str) -> None:
 
         print("\nRequest:\n", json.dumps(json_body, indent=2))
 
-        # make a REST call to the Text Analytics API resource for sentiment analysis, and include the API key in the header
+        # make a REST call to the Text Analytics API resource for language detection, and include the API key in the header
         headers = {
             'Content-Type': 'application/json',
             'Ocp-Apim-Subscription-Key': key

@@ -1,6 +1,6 @@
 # azure-ai-services-demo
 
-This repository provides sample Python code for making REST calls to the [Language Service API for Azure AI Services](https://learn.microsoft.com/en-us/azure/ai-services/language-service/).
+This repository provides sample Python code for making REST calls to the [Language Service API for Azure AI Services](https://learn.microsoft.com/en-us/azure/ai-services/language-service/).  Please refer to this [Medium article](https://engineering.doit.com/azure-ai-natural-language-understanding-from-text-to-actionable-insights-45c0d7b4a3ea) for a more detailed explanation.
 
 ### Prerequisites
 
